@@ -178,7 +178,7 @@
 					_react2.default.createElement(
 						'button',
 						{ onClick: function onClick() {
-								store.dispatch({ type: 'DECREASE' });
+								store.dispatch({ type: 'INCREASE' });
 							} },
 						'-'
 					)
