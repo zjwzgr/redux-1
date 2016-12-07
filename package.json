@@ -1,0 +1,22 @@
+{
+  "name": "redux1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zjwzgr/redux-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zjwzgr/redux-1/issues"
+  },
+  "homepage": "https://github.com/zjwzgr/redux-1#readme",
+  "devDependencies": {
+    "babel-loader": "^6.2.8"
+  }
+}
