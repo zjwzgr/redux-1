@@ -90,7 +90,7 @@ class App extends Component{
 			<div>
 				<h1>{store.getState()}</h1>
 				<button onClick={()=>{ store.dispatch({type:'INCREASE'})}}>+</button>
-				<button onClick={()=>{ store.dispatch({type:'INCREASE'})}}>-</button>
+				<button onClick={()=>{ store.dispatch({type:'DECREASE'})}}>-</button>
 			</div>
 		)
 	}
